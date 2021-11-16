@@ -194,6 +194,10 @@ body {
     overflow-y: auto;
   }
 
+  .logo img {
+    display: none;
+  }
+
   .intro {
     flex-wrap: wrap;
     justify-content: center;
